@@ -100,13 +100,13 @@ Roasted langoustine, consommé
 (5k Reviews)
 
 Pizza
-$63
+$25
 
 Baked Chicken Wings
-$199
+$20
 
 Seafood Pizza
-$352
+$28
 
 
 
@@ -208,5 +208,6 @@ Food Menu
 #---------- BACK TO TOP ----------#
 
 aria-label = back to top
+
 
 <ion-icon name="chevron-up" aria-hidden="true"></ion-icon>
