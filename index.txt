@@ -2,7 +2,6 @@ Crispy - Chicken Burgers
 
 This is a food html template made by codewithsadee
 
-
 #---------- HEADER ----------#
 
 alt = Crispy home
@@ -51,7 +50,6 @@ alt =  shape
 alt = line
 
 
-
 #---------- POPULAR ----------#
 
 Our Popular Food
@@ -77,7 +75,6 @@ Coffee
 
 alt = Chicken
 Chicken
-
 
 
 #---------- MENU ----------#
@@ -109,7 +106,6 @@ Seafood Pizza
 $28
 
 
-
 #---------- SCHEDULE ----------#
 
 
@@ -127,7 +123,6 @@ Sunday
 Closed
 
 alt = schedule banner
-
 
 
 #---------- RESERVATION ----------#
@@ -153,7 +148,6 @@ Book A Table
 <ion-icon name="arrow-forward-outline"></ion-icon>
 
 alt = shape
-
 
 
 #---------- FOOTER ----------#
@@ -211,3 +205,4 @@ aria-label = back to top
 
 
 <ion-icon name="chevron-up" aria-hidden="true"></ion-icon>
+
