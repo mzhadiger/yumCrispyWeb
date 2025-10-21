@@ -1,4 +1,4 @@
-Crispy - Chicken Burgers
+Crispy
 
 #---------- HEADER ----------# 
 
@@ -201,6 +201,7 @@ aria-label = back to top
 
 
 <ion-icon name="chevron-up" aria-hidden="true"></ion-icon>
+
 
 
 
