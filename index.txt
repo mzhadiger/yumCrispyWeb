@@ -1,7 +1,5 @@
 Crispy - Chicken Burgers
 
-This is a food html template made by codewithsadee
-
 #---------- HEADER ----------# 
 
 alt = Crispy home
@@ -186,8 +184,9 @@ Call for order:
 +1 2586 5892
 hello@crispy.com
 
+
 Location :
-119 Tanglewood Lane Gulfport, MS 39503
+
 
 &copy; 2023 codewithsadee, All Rights Reserved
 
@@ -202,6 +201,7 @@ aria-label = back to top
 
 
 <ion-icon name="chevron-up" aria-hidden="true"></ion-icon>
+
 
 
 
